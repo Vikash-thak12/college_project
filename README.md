@@ -19,5 +19,5 @@ A simple and powerful **console-based expense tracking application** built in **
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/java-expense-tracker.git
+git clone https://github.com/Vikash-thak12/java-expense-tracker.git
 cd java-expense-tracker
