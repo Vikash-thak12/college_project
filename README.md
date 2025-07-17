@@ -44,3 +44,70 @@ java-expense-tracker/
 └── README.md               // You're reading it :)
 ```
 
+### 5. **🖥️ Menu Interface (Sample)**
+```bash
+=== EXPENSE TRACKER ===
+1. Add Expense
+2. View All Expenses
+3. View Monthly Summary
+4. Exit
+Choose: _
+```
+
+### 6. **💡 Sample Usage**
+```bash
+Description: Groceries
+Amount: 450.75
+Category: Food
+Date (yyyy-mm-dd): 2025-07-15
+Expense added.
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose                             |
+|------------|-------------------------------------|
+| Java 8+    | Core programming language           |
+| OOP        | Encapsulation, modular classes      |
+| File I/O   | Read/write expense data to file     |
+| LocalDate  | Handle and store date information   |
+| Collections| Store and process expense lists     |
+
+---
+
+
+## 📈 Future Enhancements
+
+- [ ] Export monthly reports to CSV
+- [ ] Add expense editing and deletion
+- [ ] Add category budgets and alerts
+- [ ] Password protection / encryption
+- [ ] Multi-user support
+
+---
+
+## 🤝 Contribution
+
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you would like to change or improve.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute.
+
+---
+
+## 🙋‍♂️ Author
+
+**Vikash Thakur**  
+📧 thakvikash324@gmail.com  
+🌐 https://vikashdev.me/
+
+
+
+
+
