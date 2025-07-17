@@ -19,8 +19,8 @@ A simple and powerful **console-based expense tracking application** built in **
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Vikash-thak12/java-expense-tracker.git
-cd java-expense-tracker
+git clone https://github.com/Vikash-thak12/college_project.git
+cd college_project
 ```
 
 ### 2. **Compile the Program**
@@ -35,7 +35,7 @@ java Main
 
 ### 4. **🧱 Project Structure**
 ```bash
-java-expense-tracker/
+college_project/
 ├── Expense.java            // Data model class
 ├── ExpenseTracker.java     // Core logic (add, view, summary)
 ├── Main.java               // Entry point + user menu
